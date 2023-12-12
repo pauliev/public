@@ -103,4 +103,21 @@
 | Business Collaboration      | ![Business Collaboration](./business-collaboration.png) | ![Business Collaboration@2x](./business-collaboration@2x.png) |
 | Serving                     | ![Serving](./serving.png)                    | ![Serving@2x](./serving@2x.png)                         |
 | Grouping                    | ![Grouping](./grouping.png)                  | ![Grouping@2x](./grouping@2x.png)                       |
-
+| Business Function        | ![Business Function](./business-function.png) | ![Business Function@2x](./business-function@2x.png) |
+| Plateau                  | ![Plateau](./plateau.png)                  | ![Plateau@2x](./plateau@2x.png)                     |
+| Facility                 | ![Facility](./facility.png)                | ![Facility@2x](./facility@2x.png)                   |
+| Technology Collaboration | ![Technology Collaboration](./technology-collaboration.png) | ![Technology Collaboration@2x](./technology-collaboration@2x.png) |
+| Device                   | ![Device](./device.png)                    | ![Device@2x](./device@2x.png)                       |
+| Artifact                 | ![Artifact](./artifact.png)                | ![Artifact@2x](./artifact@2x.png)                   |
+| Business Actor           | ![Business Actor](./business-actor.png)    | ![Business Actor@2x](./business-actor@2x.png)       |
+| Specialization           | ![Specialization](./specialization.png)    | ![Specialization@2x](./specialization@2x.png)       |
+| Meaning                  | ![Meaning](./meaning.png)                  | ![Meaning@2x](./meaning@2x.png)                     |
+| Technology Interaction   | ![Technology Interaction](./technology-interaction.png) | ![Technology Interaction@2x](./technology-interaction@2x.png) |
+| Application Process      | ![Application Process](./application-process.png) | ![Application Process@2x](./application-process@2x.png) |
+| Composition              | ![Composition](./composition.png)          | ![Composition@2x](./composition@2x.png)             |
+| Or-Junction              | ![Or-Junction](./or-junction.png)          | ![Or-Junction@2x](./or-junction@2x.png)             |
+| Application Function     | ![Application Function](./application-function.png) | ![Application Function@2x](./application-function@2x.png) |
+| Product                  | ![Product](./product.png)                  | ![Product@2x](./product@2x.png)                     |
+| Application Component    | ![Application Component](./application-component.png) | ![Application Component@2x](./application-component@2x.png) |
+| Business Event           | ![Business Event](./business-event.png)    | ![Business Event@2x](./business-event@2x.png)       |
+| Realization              | ![Realization](./realization.png)          | ![Realization@2x](./realization@2x.png)             |
