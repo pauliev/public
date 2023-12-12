@@ -24,3 +24,23 @@
 | Business Object     | ![Business Object](./business-object.png) | ![Business Object@2x](./business-object@2x.png) |
 | Technology Collaboration | ![Technology Collaboration](./technology-collaboration.png) | ![Technology Collaboration@2x](./technology-collaboration@2x.png) |
 | Influence           | ![Influence](./influence.png) | ![Influence@2x](./influence@2x.png) |
+| Business Event           | ![Business Event](./business-event.png) | ![Business Event@2x](./business-event@2x.png)     |
+| Technology Process       | ![Technology Process](./technology-process.png) | ![Technology Process@2x](./technology-process@2x.png) |
+| Technology Service       | ![Technology Service](./technology-service.png) | ![Technology Service@2x](./technology-service@2x.png) |
+| Value Stream             | ![Value Stream](./value-stream.png) | ![Value Stream@2x](./value-stream@2x.png)         |
+| Resource                 | ![Resource](./resource.png) | ![Resource@2x](./resource@2x.png)                 |
+| Composition              | ![Composition](./composition.png) | ![Composition@2x](./composition@2x.png)           |
+| Application Interface    | ![Application Interface](./application-interface.png) | ![Application Interface@2x](./application-interface@2x.png) |
+| Business Process         | ![Business Process](./business-process.png) | ![Business Process@2x](./business-process@2x.png) |
+| Assignment               | ![Assignment](./assignment.png) | ![Assignment@2x](./assignment@2x.png)             |
+| Application Collaboration| ![Application Collaboration](./application-collaboration.png) | ![Application Collaboration@2x](./application-collaboration@2x.png) |
+| Technology Function      | ![Technology Function](./technology-function.png) | ![Technology Function@2x](./technology-function@2x.png) |
+| Business Actor           | ![Business Actor](./business-actor.png) | ![Business Actor@2x](./business-actor@2x.png)     |
+| Value                    | ![Value](./value.png) | ![Value@2x](./value@2x.png)                         |
+| Business Object          | ![Business Object](./business-object.png) | ![Business Object@2x](./business-object@2x.png)   |
+| Course of Action         | ![Course of Action](./course-of-action.png) | ![Course of Action@2x](./course-of-action@2x.png) |
+| Distribution Network     | ![Distribution Network](./distribution-network.png) | ![Distribution Network@2x](./distribution-network@2x.png) |
+| Triggering               | ![Triggering](./triggering.png) | ![Triggering@2x](./triggering@2x.png)             |
+| Assessment               | ![Assessment](./assessment.png) | ![Assessment@2x](./assessment@2x.png)             |
+| Deliverable              | ![Deliverable](./deliverable.png) | ![Deliverable@2x](./deliverable@2x.png)           |
+| Workpackage              | ![Workpackage](./workpackage.png) | ![Workpackage@2x](./workpackage@2x.png)           |
