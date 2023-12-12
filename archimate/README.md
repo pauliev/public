@@ -44,3 +44,33 @@
 | Assessment               | ![Assessment](./assessment.png) | ![Assessment@2x](./assessment@2x.png)             |
 | Deliverable              | ![Deliverable](./deliverable.png) | ![Deliverable@2x](./deliverable@2x.png)           |
 | Workpackage              | ![Workpackage](./workpackage.png) | ![Workpackage@2x](./workpackage@2x.png)           |
+| Assessment                  | ![Assessment](./assessment.png)               | ![Assessment@2x](./assessment@2x.png)                 |
+| Influence                   | ![Influence](./influence.png)                 | ![Influence@2x](./influence@2x.png)                   |
+| Application Interaction     | ![Application Interaction](./application-interaction.png) | ![Application Interaction@2x](./application-interaction@2x.png) |
+| Implementation Event        | ![Implementation Event](./implementation-event.png) | ![Implementation Event@2x](./implementation-event@2x.png) |
+| System Software             | ![System Software](./system-software.png)     | ![System Software@2x](./system-software@2x.png)       |
+| Technology Interaction      | ![Technology Interaction](./technology-interaction.png) | ![Technology Interaction@2x](./technology-interaction@2x.png) |
+| Business Role               | ![Business Role](./business-role.png)         | ![Business Role@2x](./business-role@2x.png)           |
+| Path                        | ![Path](./path.png)                           | ![Path@2x](./path@2x.png)                             |
+| Application Interface       | ![Application Interface](./application-interface.png) | ![Application Interface@2x](./application-interface@2x.png) |
+| Communication Network       | ![Communication Network](./communication-network.png) | ![Communication Network@2x](./communication-network@2x.png) |
+| Outcome                     | ![Outcome](./outcome.png)                     | ![Outcome@2x](./outcome@2x.png)                       |
+| Facility                    | ![Facility](./facility.png)                   | ![Facility@2x](./facility@2x.png)                     |
+| Technology Event            | ![Technology Event](./technology-event.png)   | ![Technology Event@2x](./technology-event@2x.png)     |
+| Representation              | ![Representation](./representation.png)       | ![Representation@2x](./representation@2x.png)         |
+| Material                    | ![Material](./material.png)                   | ![Material@2x](./material@2x.png)                     |
+| Contract                    | ![Contract](./contract.png)                   | ![Contract@2x](./contract@2x.png)                     |
+| Implementation Event        | ![Implementation Event](./implementation-event.png) | ![Implementation Event@2x](./implementation-event@2x.png) |
+| Serving                     | ![Serving](./serving.png)                     | ![Serving@2x](./serving@2x.png)                       |
+| Grouping                    | ![Grouping](./grouping.png)                   | ![Grouping@2x](./grouping@2x.png)                     |
+| Goal                        | ![Goal](./goal.png)                           | ![Goal@2x](./goal@2x.png)                             |
+| Technology Interface        | ![Technology Interface](./technology-interface.png) | ![Technology Interface@2x](./technology-interface@2x.png) |
+| Node                        | ![Node](./node.png)                           | ![Node@2x](./node@2x.png)                             |
+| Business Process            | ![Business Process](./business-process.png)   | ![Business Process@2x](./business-process@2x.png)     |
+| Course of Action            | ![Course of Action](./course-of-action.png)   | ![Course of Action@2x](./course-of-action@2x.png)     |
+| Application Collaboration   | ![Application Collaboration](./application-collaboration.png) | ![Application Collaboration@2x](./application-collaboration@2x.png) |
+| Communication Network       | ![Communication Network](./communication-network.png) | ![Communication Network@2x](./communication-network@2x.png) |
+| Data Object                 | ![Data Object](./data-object.png)             | ![Data Object@2x](./data-object@2x.png)               |
+| Actor                       | ![Actor](./actor.png)                         | ![Actor@2x](./actor@2x.png)                           |
+| Location                    | ![Location](./location.png)                   | ![Location@2x](./location@2x.png)                     |
+
