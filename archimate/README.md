@@ -73,4 +73,34 @@
 | Data Object                 | ![Data Object](./data-object.png)             | ![Data Object@2x](./data-object@2x.png)               |
 | Actor                       | ![Actor](./actor.png)                         | ![Actor@2x](./actor@2x.png)                           |
 | Location                    | ![Location](./location.png)                   | ![Location@2x](./location@2x.png)                     |
+| Business Interaction        | ![Business Interaction](./business-interaction.png) | ![Business Interaction@2x](./business-interaction@2x.png) |
+| Application Component       | ![Application Component](./application-component.png) | ![Application Component@2x](./application-component@2x.png) |
+| Technology Interface        | ![Technology Interface](./technology-interface.png) | ![Technology Interface@2x](./technology-interface@2x.png) |
+| System Software             | ![System Software](./system-software.png)    | ![System Software@2x](./system-software@2x.png)         |
+| Technology Service          | ![Technology Service](./technology-service.png) | ![Technology Service@2x](./technology-service@2x.png)   |
+| Artifact                    | ![Artifact](./artifact.png)                  | ![Artifact@2x](./artifact@2x.png)                       |
+| Aggregation                 | ![Aggregation](./aggregation.png)            | ![Aggregation@2x](./aggregation@2x.png)                 |
+| Constraint                  | ![Constraint](./constraint.png)              | ![Constraint@2x](./constraint@2x.png)                   |
+| Driver                      | ![Driver](./driver.png)                      | ![Driver@2x](./driver@2x.png)                           |
+| Application Event           | ![Application Event](./application-event.png) | ![Application Event@2x](./application-event@2x.png)     |
+| Application Service         | ![Application Service](./application-service.png) | ![Application Service@2x](./application-service@2x.png) |
+| Path                        | ![Path](./path.png)                          | ![Path@2x](./path@2x.png)                               |
+| Realization                 | ![Realization](./realization.png)            | ![Realization@2x](./realization@2x.png)                 |
+| Value Stream                | ![Value Stream](./value-stream.png)          | ![Value Stream@2x](./value-stream@2x.png)               |
+| Value                       | ![Value](./value.png)                        | ![Value@2x](./value@2x.png)                             |
+| Business Collaboration      | ![Business Collaboration](./business-collaboration.png) | ![Business Collaboration@2x](./business-collaboration@2x.png) |
+| Application Function        | ![Application Function](./application-function.png) | ![Application Function@2x](./application-function@2x.png) |
+| Gap                         | ![Gap](./gap.png)                            | ![Gap@2x](./gap@2x.png)                                 |
+| Business Function           | ![Business Function](./business-function.png) | ![Business Function@2x](./business-function@2x.png)     |
+| And-Junction                | ![And-Junction](./and-junction.png)          | ![And-Junction@2x](./and-junction@2x.png)               |
+| Association                 | ![Association](./association.png)            | ![Association@2x](./association@2x.png)                 |
+| Application Event           | ![Application Event](./application-event.png) | ![Application Event@2x](./application-event@2x.png)     |
+| Business Interface          | ![Business Interface](./business-interface.png) | ![Business Interface@2x](./business-interface@2x.png) |
+| Stakeholder                 | ![Stakeholder](./stakeholder.png)            | ![Stakeholder@2x](./stakeholder@2x.png)                 |
+| Constraint                  | ![Constraint](./constraint.png)              | ![Constraint@2x](./constraint@2x.png)                   |
+| Requirement                 | ![Requirement](./requirement.png)            | ![Requirement@2x](./requirement@2x.png)                 |
+| Business Interaction        | ![Business Interaction](./business-interaction.png) | ![Business Interaction@2x](./business-interaction@2x.png) |
+| Business Collaboration      | ![Business Collaboration](./business-collaboration.png) | ![Business Collaboration@2x](./business-collaboration@2x.png) |
+| Serving                     | ![Serving](./serving.png)                    | ![Serving@2x](./serving@2x.png)                         |
+| Grouping                    | ![Grouping](./grouping.png)                  | ![Grouping@2x](./grouping@2x.png)                       |
 
